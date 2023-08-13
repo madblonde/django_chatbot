@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+ENV/
+/.env
+
+# IDE-specific files
+.idea/
+.vscode/
+*.pyc
+
+# Database files
+*.db
+*.sqlite3
+
+# Local development settings
+local_settings.py
+
+# Logs and other temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Compiled templates
+*.pyo
+
+# Static files (only if using a CDN, otherwise these are usually collected)
+static/
+
+# Media uploads (consider separate storage solutions for production)
+media/
+
+# Compiled JavaScript (only if using a frontend build process)
+*.js
+
+# Node.js dependencies (only if using Node for frontend)
+node_modules/
